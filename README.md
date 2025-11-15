@@ -1,2 +1,5 @@
-# belajar_github
-15 Nov 2025
+# Belajar Github : Keinginan
+1. Makan
+2. Tidur
+3. Tenang
+
